@@ -1,3 +1,6 @@
+echo   "setenv.sh"
+export EPREFIX=/lustre4/home/oogasawa/gentoo
+
 export SGE_CELL=uger
 export SGE_ROOT=/home/geadmin2/UGER
 export SGE_CLUSTER_NAME=p6444
